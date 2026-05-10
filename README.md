@@ -4,7 +4,7 @@
 
 <!-- Neon typing banner -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=0085FF&center=true&vCenter=true&width=600&lines=Hi,+I'm+Jefferson+👋;Systems+Engineering+student+🎓;I am from colombia 🫓;Building+useful+things+since+2022" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=0085FF&center=true&vCenter=true&width=600&lines=Hi,+I'm+Jefferson+👋;Systems+Engineering+student+🎓;I am from colombia 🫓;Building+useful+things+since+2022&v=2" alt="Typing SVG" />
 </div>
 
 <br/>

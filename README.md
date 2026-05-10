@@ -2,39 +2,31 @@
   <img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=ARES313%20👻&fontSize=70&color=0085FF,100:0085FF&stroke=00FFAA" />
 </div>
 
-
-<div align="center">
-  <h1 style="color:#0085FF;">Hi, I'm Jefferson 👋</h1>
-  <h3 style="color:#0085FF;">🎓 Systems Engineering student</h3>
-  <h3 style="color:#0085FF;">🫓 From Colombia</h3>
-  <h3 style="color:#0085FF;">🚀 Building useful things since 2022</h3>
-</div>
-
-<br/>
-
-<!-- Your GIF here - replace with your own -->
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" />
-</div>
+<table border="0">
+  <tr>
+    <td>
+    <h3 style="color:#0085FF;">Hi, I'm Jefferson 👋</h1>
+      - 🇨🇴 From Colombia 🫓, studying <strong>Systems Engineering</strong> at <strong>Universidad Nacional de Colombia</strong><br/><br/>
+      - 🐞 Creating bugs since <strong>2022</strong> (and learning to fix them)<br/><br/>
+      - 🌱 Currently learning: <strong>C#</strong> + <strong>DevOps</strong> (Azure ☁️ AWS)<br/><br/>
+      - 🎯 2026 goals: build projects that help people... and get an <strong>RTX 5090</strong> to play Paint 🎨<br/><br/>
+      - 🎸 Guitar player | 🏍️ Motorcycle rider | 🎮 Achievement hunter (platinuming games)
+    </td>
+    <td align="center">
+      <!-- Reemplaza esta URL con la de tu GIF de pato -->
+      <img src="pato.gif" width="350" />
+    </td>
+  </tr>
+</table>
 
 <br/>
         
-## 🧑‍💻 About me
-
-- From Colombia, studying **Systems Engineering** at **Universidad Nacional de Colombia**
-- 🐞 Creating bugs since **2022** (and learning to fix them)
-- 🌱 Currently learning: **C#** + **DevOps** (Azure ☁️ AWS)
-- 🎯 2026 goals: build projects that help people... and get an **RTX 5090** to play Paint 🎨
-- 🎸 Guitar player | 🏍️ Motorcycle rider | 🎮 Achievement hunter (platinuming games)
-
-
-    </tr>
   </table>
 </div>
 
 <br/>
 
-
+        
 <div align="center">
   <h2 style="color:#0085FF;">🛠️ Tech stack</h2>
   <div style="border: 2px solid #009dff; border-radius: 30px; padding: 20px; display: inline-block;">

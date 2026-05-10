@@ -1,12 +1,12 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=ARES313%20👻&fontSize=70&color=0085FF,100:0085FF&stroke=00FFAA" />
 </div>
-## 🧑‍💻 About me
+<h2 style="color:#0085FF 🧑‍💻 About me </h2>
 
 <table border="0">
   <tr>
     <td>
-    <h3 style="color:#0085FF;">Hi, I'm Jefferson 👋</h1>
+    <h3 style="color:#0085FF;">Hi, I'm Jefferson 👋</h3>
       - 🇨🇴 From Colombia 🫓, studying <strong>Systems Engineering</strong> at <strong>Universidad Nacional de Colombia</strong><br/><br/>
       - 🐞 Creating bugs since <strong>2022</strong> (and learning to fix them)<br/><br/>
       - 🌱 Currently learning: <strong>C#</strong> + <strong>DevOps</strong> (Azure ☁️ AWS)<br/><br/>

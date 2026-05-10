@@ -1,6 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=ARES313%20👻&fontSize=70&color=0085FF,100:0085FF&stroke=00FFAA" />
 </div>
+## 🧑‍💻 About me
 
 <table border="0">
   <tr>
